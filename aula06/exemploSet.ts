@@ -1,4 +1,4 @@
-import
+
 // Cria a Collection Set, do tipo string, chamada frutas e inicializa
 const setFrutas: Set<string> = new Set<string>(["Abacate", "Banana", "Jaboticaba", "Kiwi", "Maçã", "Morango", "Pêra", "Jaboticaba"]);
 
